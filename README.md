@@ -5,17 +5,17 @@
 ## Lesson 1
 
 #### Exercise C# Sharp: 1.01 First Program in C# Sharp
-
+>
 > Create a program (in C#) to print Hello on screen and then print your name (in aseparate line).
-
+>
 #### Exercise C# Sharp: 1.02 Sum two numbers
-
+>
 > Write a C# program to print the result of adding 12 and 13 on screen.
-
+>
 #### Exercise C# Sharp: 1.03 Division of two numbers
-
+>
 > Write a C# program to print the result of dividing 24 into 5 on screen.
-
+>
 #### Exercise C# Sharp: 1.04 Multiple operations
 
 > Create a C# program to print the result of the following operations:
@@ -29,10 +29,10 @@
 > • 2 + 10 / 6 * 1 - 7 % 2
 
 
-Exercise C# Sharp: 1.05 Multiply using variables
-```
-Write a C# program to print the result of multiplying two numbers which will entered by the user.
-```
+#### Exercise C# Sharp: 1.05 Multiply using variables
+>
+> Write a C# program to print the result of multiplying two numbers which will entered by the user.
+>
 
 Exercise C# Sharp: 1.06 Use of {0} and comments
 ```
