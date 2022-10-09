@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FirstProgramInCSharp
+namespace Exercise01_FirstProgramInCSharp
 {
     internal class Program
     {
