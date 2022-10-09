@@ -2,7 +2,6 @@
 
 12 Lessons C# Sharp - 228 Exercises C# Sharp. ¡WITH SOLUTIONS!
 &nbsp;
-&nbsp;
 ## Lesson 1
 &nbsp;
 #### Exercise C# Sharp: 1.01 First Program in C# Sharp
