@@ -380,11 +380,11 @@
 &nbsp;
 ## Lesson C# Sharp: 3 - Basic data types
 &nbsp;
-## Exercise C# Sharp: 3.01 Char
+#### Exercise C# Sharp: 3.01 Char
 >
 > Write a program to ask the user for three letters and display them in reverse order.
 >
-## Exercise C# Sharp: 3.02 Triangle
+#### Exercise C# Sharp: 3.02 Triangle
 >
 > Write a program which asks for a symbol and a width, and displays a triangle of that width, using that number for the inner symbol, as in this example:
 >
@@ -397,15 +397,15 @@
 > 44
 > 4.
 >
-## Exercise C# Sharp: 3.03 Password as string
+#### Exercise C# Sharp: 3.03 Password as string
 >
 > Write a program to ask the user for his/her name and his/her password (both must be strings) and repeat it as many times as necessary, until the entered name is "user" and the password is "password".
 >
-## Exercise C# Sharp: 3.04 Password, 5 attempts
+#### Exercise C# Sharp: 3.04 Password, 5 attempts
 >
 > Write a program which asks the user for his login and password. Both must be strings. After 5 wrong attempts, the user will be rejected.
 >
-## Exercise C# Sharp: 3.05 Calculator – if
+#### Exercise C# Sharp: 3.05 Calculator – if
 >
 > Write a program which asks the user for two numbers and an operation to perform on them (+,-,*,x,/) and displays the result of that operation, as in this example:
 > 
@@ -416,7 +416,7 @@
 >
 > Note: you MUST use "if", not "switch".
 >
-## Exercise C# Sharp: 3.06 Calculator – switch
+#### Exercise C# Sharp: 3.06 Calculator – switch
 >
 > Write a program which asks the user for two numbers and an operation to perform on them (+,-,*,x,/) and displays the result of that operation, as in this example:
 >
@@ -427,19 +427,19 @@
 >
 > Note: you MUST use "switch", not "if"
 >
-## Exercise C# Sharp: 3.07 Double
+#### Exercise C# Sharp: 3.07 Double
 >
 > Calculate the perimeter, area and diagonal of a rectangle, given its width and its height.
 > (Hint: use y = Math.Sqrt(x) to calculate a square root)
 >
-## Exercise C# Sharp: 3.08 Calculate values of a function
+#### Exercise C# Sharp: 3.08 Calculate values of a function
 >
 > Create a program to display certain values of the function y = x2 - 2x + 1 (using integer numbers for x, ranging from -10 to +10)
 >
-## Exercise C# Sharp: 3.09 Display a function
+#### Exercise C# Sharp: 3.09 Display a function
 >
 > Create a program to "draw" the graphic of the function y = (x-4)2 for integer values of x ranging -1 to 8. It will show as many asterisks on screen as the value obtained for "y", like this:
->
+> ```
 > *************************
 > ****************
 > *********
@@ -450,57 +450,57 @@
 > ****
 > *********
 > ****************
->
-## Exercise C# Sharp: 3.10 Float, speed units
+> ```
+#### Exercise C# Sharp: 3.10 Float, speed units
 >
 > Create a program to ask the user for a distance (in meters) and the time taken (as three numbers: hours, minutes, seconds), and display the speed, in meters per second, kilometers per hour and miles per hour (hint: 1 mile = 1609 meters).
 >
-## Exercise C# Sharp: 3.11 Sphere – float
+#### Exercise C# Sharp: 3.11 Sphere – float
 >
 > Calculate the surface and volume of a sphere, given its radius (surface = 4 * pi* radius squared; volume = 4/3 * pi * radius cubed).
 > 
 > Hint: for "float" numbers, you must use Convert.ToSingle(...)
 > 
-## Exercise C# Sharp: 3.12 Vowel – switch
+#### Exercise C# Sharp: 3.12 Vowel – switch
 >
 > Create a program to ask the user for a symbol and answer if it is a (lowercase)vowel, a digit, or any other symbol, using "switch".
-## Exercise C# Sharp: 3.13 Vowel – if
+#### Exercise C# Sharp: 3.13 Vowel – if
 > 
 > Create a program to ask the user for a symbol and answer if it is a (lowercase)vowel, a digit, or any other symbol, using "if".
 > 
-## Exercise C# Sharp: 3.14 Triangle, NorthEast
+#### Exercise C# Sharp: 3.14 Triangle, NorthEast
 > 
 > Write a program which asks for a width, and displays a triangle like this one:
 > 
 > Enter the desired width: 5
-> 
+> ```
 > *****
 > _****
 > __***
 > ___**
 > ____*
->
-## Exercise C# Sharp: 3.15 Prime factors
+> ```
+#### Exercise C# Sharp: 3.15 Prime factors
 >
 > Create a program that displays a number (entered by the user) as a product of its prime factors. For example, 60 = 2 · 2 · 3 · 5
 >
 > (Hint: it can be easier if the solution is displayed as 60 = 2 · 2 · 3 · 5 · 1)
 >
-## Exercise C# Sharp: 3.15 Prime factors
+#### Exercise C# Sharp: 3.15 Prime factors
 >
 > Create a program that displays a number (entered by the user) as a product of its prime factors. For example, 60 = 2 · 2 · 3 · 5
 > 
 > (Hint: it can be easier if the solution is displayed as 60 = 2 · 2 · 3 · 5 · 1)
 >
-## Exercise C# Sharp: 3.16 If, symbols
+#### Exercise C# Sharp: 3.16 If, symbols
 >
 > Create a program to ask the user for a symbol and answer if is an uppercase vowel, a lowercase vowel, a digit or any other symbol, using "if".
 >
-## Exercise C# Sharp: 3.17 Char + for
+#### Exercise C# Sharp: 3.17 Char + for
 >
 > Create a program to write the letters "B" to "N" (uppercase), using "for"
 >
-## Exercise C# Sharp: 3.18 Double, approximation of Pi
+#### Exercise C# Sharp: 3.18 Double, approximation of Pi
 >
 > Create a program to calculate an approximation for PI using the expression
 >
@@ -508,15 +508,15 @@
 >
 > The user will indicate how many terms must be used, and the program will displayb all the results until that amount of terms.
 >
-## Exercise C# Sharp: 3.19 Perimeter, area, diagonal
+#### Exercise C# Sharp: 3.19 Perimeter, area, diagonal
 >
 > Create a program to write the letters "B" to "N" (uppercase), using "for"
 >
-## Exercise C# Sharp: 3.20 Hexadecimal and binary
+#### Exercise C# Sharp: 3.20 Hexadecimal and binary
 >
 > Create a program to ask the user for a number an display it both in hexadecimal and binary. It must repeat until the user enters 0.
 >
-## Exercise C# Sharp: 3.21 Hexadecimal table
+#### Exercise C# Sharp: 3.21 Hexadecimal table
 >
 > Create a program to display the hexadecimal numbers from 0 to 255 (decimal), in 16 rows with 16 numbers each (first row will contain the numbers 0 to 15 -decimal-, second will have 16 to 31 -decimal-, and so on).
 > 
@@ -538,15 +538,15 @@
 > e0 e1 e2 e3 e4 e5 e6 e7 e8 e9 ea eb ec ed ee ef
 > f0 f1 f2 f3 f4 f5 f6 f7 f8 f9 fa fb fc fd fe ff
 >
-## Exercise C# Sharp: 3.22 Binary
+#### Exercise C# Sharp: 3.22 Binary
 >
 > Create a program that asks the user for a decimal number and displays its equivalent in binary form. It should be repeated until the user enters the word "end." You must not use "ToString", but succesive divisions.
 >
-## Exercise C# Sharp: 3.23 Conditional and Boolean
+#### Exercise C# Sharp: 3.23 Conditional and Boolean
 >
 > Create a program that uses the conditional operator to give a boolean variable named "bothEven" the value "true" if two numbers entered by the user are the even, or "false" if any of them is odd.
 >
-## Exercise C# Sharp: 3.24 Exceptions
+#### Exercise C# Sharp: 3.24 Exceptions
 >
 > Create a program to ask the user for a real number and display its square root. Errors must be trapped using "try..catch".
 >
