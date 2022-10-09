@@ -6,32 +6,28 @@
 
 #### Exercise C# Sharp: 1.01 First Program in C# Sharp
 
-###Blockquotes
 > Create a program (in C#) to print Hello on screen and then print your name (in aseparate line).
 
+#### Exercise C# Sharp: 1.02 Sum two numbers
 
-Exercise C# Sharp: 1.02 Sum two numbers
-```
-Write a C# program to print the result of adding 12 and 13 on screen.
-```
+> Write a C# program to print the result of adding 12 and 13 on screen.
 
-Exercise C# Sharp: 1.03 Division of two numbers
-```
-Write a C# program to print the result of dividing 24 into 5 on screen.
-```
+#### Exercise C# Sharp: 1.03 Division of two numbers
 
-Exercise C# Sharp: 1.04 Multiple operations
-```
-Create a C# program to print the result of the following operations:
+> Write a C# program to print the result of dividing 24 into 5 on screen.
 
-- -1 + 3 * 5
+#### Exercise C# Sharp: 1.04 Multiple operations
 
-- (24+5) % 7
+> Create a C# program to print the result of the following operations:
+>
+> • -1 + 3 * 5
+>
+> • (24+5) % 7
+>
+> • 15 + -4*6 / 11
+>
+> • 2 + 10 / 6 * 1 - 7 % 2
 
-- 15 + -4*6 / 11
-
-- 2 + 10 / 6 * 1 - 7 % 2
-```
 
 Exercise C# Sharp: 1.05 Multiply using variables
 ```
