@@ -4,7 +4,7 @@
 
 
 ## Lesson 1
-
+&nbsp;
 
 #### Exercise C# Sharp: 1.01 First Program in C# Sharp
 >
