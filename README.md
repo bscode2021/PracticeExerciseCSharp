@@ -1,11 +1,10 @@
 # PracticeExerciseCSharp
 
 12 Lessons C# Sharp - 228 Exercises C# Sharp. ¡WITH SOLUTIONS!
-
-
+&nbsp;
+&nbsp;
 ## Lesson 1
 &nbsp;
-
 #### Exercise C# Sharp: 1.01 First Program in C# Sharp
 >
 > Create a program (in C#) to print Hello on screen and then print your name (in aseparate line).
@@ -116,9 +115,9 @@
 >
 > fahrenheit = celsius x 18 / 10 + 32
 >
-
+&nbsp;
 ## Lesson 2
-
+&nbsp;
 #### Exercise C# Sharp: 2.01 Positive and negative
 >
 > Write a C# program to get a number from the and answer whether it is positive or negative.
