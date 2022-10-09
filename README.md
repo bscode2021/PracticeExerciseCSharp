@@ -4,9 +4,10 @@
 
 ## Lesson 1
 
-### Exercise C# Sharp: 1.01 First Program in C# Sharp
+#### Exercise C# Sharp: 1.01 First Program in C# Sharp
 
-- Create a program (in C#) to print Hello on screen and then print your name (in aseparate line).
+###Blockquotes
+> Create a program (in C#) to print Hello on screen and then print your name (in aseparate line).
 
 
 Exercise C# Sharp: 1.02 Sum two numbers
