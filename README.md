@@ -1,60 +1,55 @@
 # PracticeExerciseCSharp
 
-#
+12 Lessons C# Sharp - 228 Exercises C# Sharp. ¡WITH SOLUTIONS!
 
-#Lesson 1
+## Lesson 1
+
+Exercise C# Sharp: 1.01 First Program in C# Sharp
 ```
-## Exercise C# Sharp: 1.01 First Program in C# Sharp
-
-###### Create a program (in C#) to print Hello on screen and then print your name (in aseparate line).
-
-## Exercise C# Sharp: 1.02 Sum two numbers
-
-###### Write a C# program to print the result of adding 12 and 13 on screen.
+Create a program (in C#) to print Hello on screen and then print your name (in aseparate line).
 ```
+
+Exercise C# Sharp: 1.02 Sum two numbers
 ```
-## Exercise C# Sharp: 1.03 Division of two numbers
-
-###### Write a C# program to print the result of dividing 24 into 5 on screen.
+Write a C# program to print the result of adding 12 and 13 on screen.
 ```
+
+Exercise C# Sharp: 1.03 Division of two numbers
 ```
-## Exercise C# Sharp: 1.04 Multiple operations
-
-###### Create a C# program to print the result of the following operations:
-
-###### • -1 + 3 * 5
-
-###### • (24+5) % 7
-
-###### • 15 + -4*6 / 11
-
-###### • 2 + 10 / 6 * 1 - 7 % 2
+Write a C# program to print the result of dividing 24 into 5 on screen.
 ```
+
+Exercise C# Sharp: 1.04 Multiple operations
 ```
-## Exercise C# Sharp: 1.05 Multiply using variables
+Create a C# program to print the result of the following operations:
 
-###### Write a C# program to print the result of multiplying two numbers which will entered by the user.
+- -1 + 3 * 5
+
+- (24+5) % 7
+
+- 15 + -4*6 / 11
+
+- 2 + 10 / 6 * 1 - 7 % 2
 ```
+
+Exercise C# Sharp: 1.05 Multiply using variables
 ```
-## Exercise C# Sharp: 1.06 Use of {0} and comments
-
-###### Write a C# program to ask the user for three numbers and display their multiplication.
-
-###### The first line must be a comment with your name and surname. It MUST look as follows:
-
-###### Enter the first number to multiply
-
-###### 12
-
-###### Enter the second number to multiply
-
-###### 23
-
-###### Enter the third number to multiply
-
-###### 2
+Write a C# program to print the result of multiplying two numbers which will entered by the user.
 ```
+
+Exercise C# Sharp: 1.06 Use of {0} and comments
 ```
+Write a C# program to ask the user for three numbers and display their multiplication.
+The first line must be a comment with your name and surname. It MUST look as follows:
+
+Enter the first number to multiply
+12
+Enter the second number to multiply
+23
+ Enter the third number to multiply
+ 2
+```
+
 ## Exercise C# Sharp: 1.07 Several operations
 
 ###### Write a C# program to print on screen the result of adding, subtracting, multiplying and dividing two numbers typed by the user. The remainder of the division must be displayed, too.
