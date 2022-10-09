@@ -4,133 +4,195 @@
 
 ## Lesson 1
 
-Exercise C# Sharp: 1.01 First Program in C# Sharp
-```
-Create a program (in C#) to print Hello on screen and then print your name (in aseparate line).
-```
+#### Exercise C# Sharp: 1.01 First Program in C# Sharp
+>
+> Create a program (in C#) to print Hello on screen and then print your name (in aseparate line).
+>
+#### Exercise C# Sharp: 1.02 Sum two numbers
+>
+> Write a C# program to print the result of adding 12 and 13 on screen.
+>
+#### Exercise C# Sharp: 1.03 Division of two numbers
+>
+> Write a C# program to print the result of dividing 24 into 5 on screen.
+>
+#### Exercise C# Sharp: 1.04 Multiple operations
+> Create a C# program to print the result of the following operations:
+>
+> •  -1 + 3 * 5
+>
+> •  (24 + 5) % 7
+>
+> •  15 + -4 * 6 / 11
+>
+> •  2 + 10 / 6 * 1 - 7 % 2
+#### Exercise C# Sharp: 1.05 Multiply using variables
+>
+> Write a C# program to print the result of multiplying two numbers which will entered by the user.
+>
+#### Exercise C# Sharp: 1.06 Use of {0} and comments
+>
+> Write a C# program to ask the user for three numbers and display their multiplication.
+> The first line must be a comment with your name and surname. It MUST look as follows:
+> 
+> Enter the first number to multiply
+> 12
+> Enter the second number to multiply
+> 23
+> Enter the third number to multiply
+> 2
+> 
+#### Exercise C# Sharp: 1.07 Several operations
+>
+> Write a C# program to print on screen the result of adding, subtracting, multiplying and dividing two numbers typed by the user. The remainder of the division must > > be displayed, too.
+>
+> It might look like this:
+>
+> Enter a number: 12
+>
+> Enter another number: 3
+>
+> 12 + 3 = 15
+>
+> 12 - 3 = 9
+>
+> 12 x 3 = 36
+>
+> 12 / 3 = 4
+>
+> 12 mod 3 = 0
+>
+#### Exercise C# Sharp: 1.08 Multiplication table
+>
+> Write a C# program to ask the user for a number and display its multiplication table, like this:
+>
+> 5 x 1 = 5
+>
+> 5 x 2 = 10
+>
+> 5 x 3 = 15
+>
+> ...
+>
+> 5 x 10 = 50
+>
+#### Exercise C# Sharp: 1.09 Average
+>
+> Write a C# program to calculate and display the average of four numbers entered by the user.
+>
+#### Exercise C# Sharp: 1.11 Age
+>
+> Write a C# program to ask the user for his age (20, for instance) and answer something as "You look younger than 20" (instead of 20, you should display the age that has been entered).
+>
+#### Exercise C# Sharp: 1.12 Formats
+>
+> Write a C# program to ask the user for a number and display ir four times in a row, separated with blank spaces, and then four times in the next row, with no  separation. 
+>
+> You must do it two times: first using Console.Write and then using {0}.
+>
+#### Exercise C# Sharp: 1.13 Rectangle
+>
+> Write a C# program to ask the user for a number and then display a rectangle 3 columns wide and 5 rows tall using that digit. For example:
+>
+> Enter a digit: 3
+>
+> 333
+>
+> 3 3
+>
+> 3 3
+>
+> 3 3
+>
+> 333
+>
+#### Exercise C# Sharp: 1.14 Conversion
+>
+> Create a C# program to convert from celsius degrees to Kelvin and Fahrenheit: it will ask the user for the amount of celsius degrees and using the following conversion tables:
+>
+> kelvin = celsius + 273
+>
+> fahrenheit = celsius x 18 / 10 + 32
+>
 
-Exercise C# Sharp: 1.02 Sum two numbers
-```
-Write a C# program to print the result of adding 12 and 13 on screen.
-```
+## Lesson 2
 
-Exercise C# Sharp: 1.03 Division of two numbers
-```
-Write a C# program to print the result of dividing 24 into 5 on screen.
-```
-
-Exercise C# Sharp: 1.04 Multiple operations
-```
-Create a C# program to print the result of the following operations:
-
-- -1 + 3 * 5
-
-- (24+5) % 7
-
-- 15 + -4*6 / 11
-
-- 2 + 10 / 6 * 1 - 7 % 2
-```
-
-Exercise C# Sharp: 1.05 Multiply using variables
-```
-Write a C# program to print the result of multiplying two numbers which will entered by the user.
-```
-
-## Exercise C# Sharp: 1.06 Use of {0} and comments
-
-###### Write a C# program to ask the user for three numbers and display their multiplication.
-
-###### The first line must be a comment with your name and surname. It MUST look as follows:
-
-###### Enter the first number to multiply
-
-###### 12
-
-###### Enter the second number to multiply
-
-###### 23
-
-###### Enter the third number to multiply
-
-###### 2
-```
-```
-## Exercise C# Sharp: 1.07 Several operations
-
-###### Write a C# program to print on screen the result of adding, subtracting, multiplying and dividing two numbers typed by the user. The remainder of the division must be displayed, too.
-
-###### It might look like this:
-
-###### Enter a number: 12
-
-###### Enter another number: 3
-
-###### 12 + 3 = 15
-
-###### 12 - 3 = 9
-
-###### 12 x 3 = 36
-
-###### 12 / 3 = 4
-
-###### 12 mod 3 = 0
-```
-```
-## Exercise C# Sharp: 1.08 Multiplication table
-
-###### Write a C# program to ask the user for a number and display its multiplication table, like this:
-
-###### 5 x 1 = 5
-
-###### 5 x 2 = 10
-
-###### 5 x 3 = 15
-
-###### ...
-
-###### 5 x 10 = 50
-```
-```
-## Exercise C# Sharp: 1.09 Average
-
-###### Write a C# program to calculate and display the average of four numbers entered by the user.
-```
-```
-## Exercise C# Sharp: 1.11 Age
-
-###### Write a C# program to ask the user for his age (20, for instance) and answer something as "You look younger than 20" (instead of 20, you should display the age that has been entered).
-```
-```
-## Exercise C# Sharp: 1.12 Formats
-
-###### Write a C# program to ask the user for a number and display ir four times in a row, separated with blank spaces, and then four times in the next row, with no separation. 
-
-###### You must do it two times: first using Console.Write and then using {0}.
-```
-```
-## Exercise C# Sharp: 1.13 Rectangle
-
-###### Write a C# program to ask the user for a number and then display a rectangle 3 columns wide and 5 rows tall using that digit. For example:
-
-###### Enter a digit: 3
-
-###### 333
-
-###### 3 3
-
-###### 3 3
-
-###### 3 3
-
-###### 333
-```
-```
-## Exercise C# Sharp: 1.14 Conversion
-
-###### Create a C# program to convert from celsius degrees to Kelvin and Fahrenheit: it will ask the user for the amount of celsius degrees and using the following conversion tables:
-
-###### kelvin = celsius + 273
-
-###### fahrenheit = celsius x 18 / 10 + 32
-```
+#### Exercise C# Sharp: 2.01 Positive and negative
+>
+> Write a C# program to get a number from the and answer whether it is positive or negative.
+>
+#### Exercise C# Sharp: 2.02 Multiply if not zero
+>
+> Write a C# program to ask the user for a number; if it is not zero, then it will ask for a second number and display their product; otherwise, it will display "0".
+>
+#### Exercise C# Sharp: 2.03 Divide if not zero
+>
+> Write a C# program to ask the user for two numbers, and show their division if the second number is not zero; otherwise, it will display "I cannot divide"
+>
+#### Exercise C# Sharp: 2.04 Divide if not zero (Using else)
+>
+> Create a version of the previous program, using "else"
+>
+#### Exercise C# Sharp: 2.05 Greatest of three numbers
+>
+> Write a C# program to get three numbers from the user and display the greatest one.
+>
+#### Exercise C# Sharp: 2.06 Repeat until 0
+>
+> Create a C# program to ask the user for a number "x" and display 10*x. It must repeat until the user enters 0 (using "while").
+>
+##### Exercise C# Sharp: 2.07 Repeat until 0 (Do While)
+>
+> Create a C# program to ask the user for a number "x" and display 10*x. It must repeat until the user enters 0 (using "do-while").
+>
+#### Exercise C# Sharp: 2.08 While + Counter
+>
+> Create a C# program to display the numbers 1 to 10 on screen, using "while".
+>
+#### Exercise C# Sharp: 2.08 While + Counter
+>
+> Create a C# program to display the numbers 1 to 10 on screen, using "while".
+>
+#### Exercise C# Sharp: 2.09 Times table
+>
+> Write a C# program to ask the user for a number and display its multiplication table, using a "while" statement.
+>
+#### Exercise C# Sharp: 2.10 Odd numbers, descending
+>
+> Create a program to display on the screen the odd numbers from 15 to 7 (downwards), using "while"
+>
+#### Exercise C# Sharp: 2.11 Sum numbers
+>
+> Write a C# program to ask the user for an undetermined amount of numbers (until 0 is entered) and display their sum, as follows:
+>
+> Number? 5
+> Total = 5
+> Number? 10
+> Total = 15
+> Number? -2
+> Total = 13
+> Number? 0
+> Finished
+>
+#### Exercise C# Sharp: 2.12 Two negatives
+>
+> Create a program to accept two numbers from the user and answer if both are negative or not.
+>
+#### Exercise C# Sharp: 2.13 One or two negatives
+>
+> Create a program to accept two numbers from the user and answer if both are negative, if only one is, or if none of them is.
+>
+#### Exercise C# Sharp: 2.14 Multiples
+>
+> Create a program to write on screen the numbers from 1 to 500 that are multiples of 3 and also multiples of 5 (hint: use the remainder of the division).
+>
+#### Exercise C# Sharp: 2.15 Number repeated
+>
+> Write a program which asks for a number and an amount, and shows that number repeated as many times as the user has indicated, as in the following example:
+>
+> Enter a number: 4
+> Enter an amount: 5
+> 
+> 44444
+>
+> You must display it three times: first using "while", then "do-while" and finally "for".
