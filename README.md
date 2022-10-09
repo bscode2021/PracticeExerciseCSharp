@@ -519,7 +519,7 @@
 #### Exercise C# Sharp: 3.21 Hexadecimal table
 >
 > Create a program to display the hexadecimal numbers from 0 to 255 (decimal), in 16 rows with 16 numbers each (first row will contain the numbers 0 to 15 -decimal-, second will have 16 to 31 -decimal-, and so on).
-> 
+> ```
 > The result should be:
 > 00 01 02 03 04 05 06 07 08 09 0a 0b 0c 0d 0e 0f
 > 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f
@@ -537,7 +537,7 @@
 > d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 da db dc dd de df
 > e0 e1 e2 e3 e4 e5 e6 e7 e8 e9 ea eb ec ed ee ef
 > f0 f1 f2 f3 f4 f5 f6 f7 f8 f9 fa fb fc fd fe ff
->
+>```
 #### Exercise C# Sharp: 3.22 Binary
 >
 > Create a program that asks the user for a decimal number and displays its equivalent in binary form. It should be repeated until the user enters the word "end." You must not use "ToString", but succesive divisions.
